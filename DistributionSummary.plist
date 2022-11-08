@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Avatar.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>buildNumber</key>
+			<string>0</string>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>F52E2590E8461755C534AD33FCBA0B00385794A5</string>
+				<key>dateExpires</key>
+				<string>30/07/2023</string>
+				<key>type</key>
+				<string>Apple Distribution</string>
+			</dict>
+			<key>embeddedBinaries</key>
+			<array>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>buildNumber</key>
+					<string>1.0</string>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>F52E2590E8461755C534AD33FCBA0B00385794A5</string>
+						<key>dateExpires</key>
+						<string>30/07/2023</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>UnityFramework.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>59484UB4B2</string>
+						<key>name</key>
+						<string>Trung Duong Le Phuoc</string>
+					</dict>
+					<key>versionNumber</key>
+					<string>1.0</string>
+				</dict>
+			</array>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>59484UB4B2.com.TeneficGames.Avatar</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>59484UB4B2</string>
+				<key>get-task-allow</key>
+				<false/>
+			</dict>
+			<key>name</key>
+			<string>Avatar.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>e4563484-0300-49a4-ae11-9e84ddce5ddf</string>
+				<key>dateExpires</key>
+				<string>12/08/2023</string>
+				<key>name</key>
+				<string>iOS Team Ad Hoc Provisioning Profile: com.TeneficGames.Avatar</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>59484UB4B2</string>
+				<key>name</key>
+				<string>Trung Duong Le Phuoc</string>
+			</dict>
+			<key>versionNumber</key>
+			<string>2.5.8</string>
+		</dict>
+	</array>
+</dict>
+</plist>
