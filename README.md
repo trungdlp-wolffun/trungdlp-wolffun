@@ -6,7 +6,7 @@ I'm a backend developer at Wolffun Game, where I work on building scalable and e
 
 ## What I'm Working On
 
-Currently, I'm working on building a real-time game server using Node.js and Redis to handle the game state and player interactions. I'm also collaborating with the front-end team to integrate the server with the game client using WebSockets.
+Currently, I'm working on building a real-time game server using Golang and Redis to handle the game state and player interactions. I'm also collaborating with the front-end team to integrate the server with the game client using WebSockets.
 
 ## What I'm Learning
 
