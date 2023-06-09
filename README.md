@@ -1,6 +1,6 @@
 # Hi there, I'm Trung 👋
 
-![Snake animation](https://github.com/tinh98/tinh98/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/trungdlp-wolffun/trungdlp-wolffun/blob/output/github-contribution-grid-snake.svg)
 
 ## About Me
 
