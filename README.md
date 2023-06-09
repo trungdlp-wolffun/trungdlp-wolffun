@@ -1,5 +1,7 @@
 # Hi there, I'm Trung 👋
 
+![Snake animation](https://github.com/tinh98/tinh98/blob/output/github-contribution-grid-snake.svg)
+
 ## About Me
 
 I'm a backend developer at Wolffun Game, where I work on building scalable and efficient systems to power our online games. I have a strong background in software development, with experience in programming languages such as Go, Java, and JS.
